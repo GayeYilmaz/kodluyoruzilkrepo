@@ -12,4 +12,5 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
-![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/36278457/145690203-16d69686-21f0-41e5-9af9-65476737babd.png)
+
+![Untitled Diagram drawio (3)](https://user-images.githubusercontent.com/36278457/145690524-981bf3a7-afc4-45d1-a028-e0bb7ef09a41.png)
