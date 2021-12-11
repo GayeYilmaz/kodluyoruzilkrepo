@@ -20,4 +20,5 @@ asansör bir katta durduğunda, her iki kapı grubu da önceden belirlenmiş bir
 
 Simülatör, gerçek zaman geçişini simüle etmek ve simülasyonda meydana gelen olayları zaman damgası ve günlüğe kaydetmek için bir "saat" kullanır. Simülatör tarafından yolcu 
 oluşturmak ve her yolcu için kalkış ve varış katlarını belirlemek için rastgele bir sayı üreteci kullanılır.
+
 ![Untitled Diagram drawio (5)](https://user-images.githubusercontent.com/36278457/145691688-f7a3acea-0dfe-40d3-8227-73a5ec296af6.png)
