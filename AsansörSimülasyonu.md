@@ -1,6 +1,6 @@
 # ASANSÖR SİMÜLASYONU
 
-= Aşağıdaki problem ifadesine göre bir sınıf diyagramı tasarlayın.
+**Aşağıdaki problem ifadesine göre bir sınıf diyagramı tasarlayın.**
 
 Nesne Yönelimli Programlamanın ilkelerini ve sınıflar arası ilişki durumlarını kullanmaya çalışın. (Encapsulation, Inheritance, Polymorphism, Abstraction)Kodluyoruz Sigorta 
 Şirketi 12 katlı bir ofis binası inşa etmek ve onu en son asansör teknolojisi ile donatmak istiyor. Şirket, bina içindeki trafik akışı ihtiyaçlarını karşılayıp karşılamayacaklarını
